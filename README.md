@@ -1,5 +1,6 @@
 Creating and Inserting DOM Nodes
 ---
+# Finished this lab!
 
 ## Objectives
 
